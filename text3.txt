@@ -1,1 +1,3 @@
 it's the third text file
+
+new line in text3
