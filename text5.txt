@@ -1,1 +1,3 @@
 It's text5
+
+New line in text5.txt
